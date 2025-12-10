@@ -1,5 +1,6 @@
 # Taiwan ID Validator (for Ruby)
 
+[![Ruby CI](https://github.com/guanting112/taiwan-id-validator-ruby/actions/workflows/ci.yml/badge.svg)](https://github.com/guanting112/taiwan-id-validator-ruby/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 `taiwan_id_validator` is a lightweight and zero-dependency Ruby gem for validating Taiwan National IDs, Alien Resident Certificates (ARC), and Unified Business Numbers (UBN).
